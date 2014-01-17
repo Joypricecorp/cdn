@@ -1,4 +1,10 @@
-## Sample ignored
+## Sample ignored ##
+####################
+
+# PHPSTROM
+.idea
+.idea/*
+
 # Bootstrap
 app/bootstrap*
 
