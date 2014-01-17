@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2012 by original authors @ fontello.com</metadata>
+<defs>
+<font id="jpx-fontello" horiz-adv-x="1000" >
+<font-face font-family="jpx-fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="dropbox" unicode="&#xe80d;" d="M0 311l214 163-214 162 311 203 203-174 208 174 302-193-198-165 198-170-307-185-203 156-203-156z m213-251l0 57 94-55 203 155 1-1 0-355z m5 416l294-185 296 196-294 169z m293-615l1 355 2 1 202-155 100 60 0-63z" horiz-adv-x="1024" />
+<glyph glyph-name="trash" unicode="&#xe802;" d="M0 633l0 141 289 0 0 76 246 0 0-76 289 0 0-141-824 0z m43-783l0 676 738 0 0-676-738 0z" horiz-adv-x="824" />
+<glyph glyph-name="th-list" unicode="&#xe801;" d="M0-150l0 250 250 0 0-250-250 0z m0 375l0 250 250 0 0-250-250 0z m0 375l0 250 250 0 0-250-250 0z m391-750l0 250 609 0 0-250-609 0z m0 375l0 250 609 0 0-250-609 0z m0 375l0 250 609 0 0-250-609 0z" horiz-adv-x="1000" />
+<glyph glyph-name="th-large" unicode="&#xe800;" d="M0-150l0 437 437 0 0-437-437 0z m0 562l0 437 437 0 0-437-437 0z m562-562l0 437 437 0 0-437-437 0z m0 562l0 437 437 0 0-437-437 0z" horiz-adv-x="1000" />
+<glyph glyph-name="stop" unicode="&#xe803;" d="M0-25l0 750 750 0 0-750-750 0z" horiz-adv-x="750" />
+<glyph glyph-name="cw" unicode="&#xe80e;" d="M0 350q0 207 146 353t353 146q209 0 355-148l145 104 0-465-445 148 131 94q-82 64-186 64-123 0-210-87t-87-210 87-210 210-87q82 0 150 40t107 108l176-102q-66-113-182-182t-252-68q-207 0-353 146t-146 353z" horiz-adv-x="1000" />
+<glyph glyph-name="play" unicode="&#xe804;" d="M0-25l0 750 625-375z" horiz-adv-x="625" />
+<glyph glyph-name="pencil" unicode="&#xe805;" d="M0-143l68 344 273-273z m137 393l422 422 260-260-422-422z m531 494q2 39 31 68t68 31 66-25l131-131q25-25 24-65t-30-69-69-30-65 24l-131 131q-27 27-25 66z" horiz-adv-x="989" />
+<glyph glyph-name="ok" unicode="&#xe80a;" d="M0 260l162 162 166-164 508 510 164-164-510-510-162-162-162 164z" horiz-adv-x="1000" />
+<glyph glyph-name="laptop" unicode="&#xe80b;" d="M0 47l0 88 1000 0 0-88-51-53-898 0z m100 135l0 523 801 0 0-523-801 0z m100 96l602 0 0 334-602 0 0-334z m209-252l184 0 0 80-184 0 0-80z" horiz-adv-x="1000" />
+<glyph glyph-name="camera" unicode="&#xe806;" d="M0-27l0 627 295 0 31 127 361 0 31-127 281 0 0-627-1000 0z m221 346q0-117 83-199t199-82 198 82 82 199-82 199-198 82-199-82-83-199z m84 0q0 82 58 141t140 59 141-59 59-141-59-140-141-58-140 58-58 140z m527 139l143 0 0 82-143 0 0-82z" horiz-adv-x="1000" />
+<glyph glyph-name="left" unicode="&#xe808;" d="M0 350l586 391 0-211 414 0 0-359-414 0 0-211z" horiz-adv-x="1000" />
+<glyph glyph-name="up-circled" unicode="&#xe80c;" d="M0 350q0 207 146 353t353 146 353-146 146-353-146-353-353-146-353 146-146 353z m248-55l135 0 0-268 234 0 0 268 135 0-252 377z" horiz-adv-x="1000" />
+<glyph glyph-name="folder" unicode="&#xe807;" d="M0-52l0 715 139 0 68 90 217 0 68-90 508 0 0-715-1000 0z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
